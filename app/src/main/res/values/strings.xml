@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OperacionesApp</string>
+
+    <string name="infoIngresoDatos">Ingrese los datos</string>
+    <string name="infoOpciones">Seleccione una opción:</string>
+    <string name="infoResultados">Resultado</string>
+
+    <string name="txtnum1">Número 1</string>
+    <string name="txtnum2">Número 2</string>
+
+    <!-- Operaciones -->
+    <string name="btnSuma">Sumar</string>
+    <string name="btnResta">Restar</string>
+    <string name="btnMultiplicar">Multiplicar</string>
+    <string name="btnDividir">Dividir</string>
+</resources>
