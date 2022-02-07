@@ -5,8 +5,6 @@ Alumna: Pamela Giselle Chipagua Hernández
 
 Carnet: CH160423
 
-Ejercicios guía 1
-
 ## Parte I:
 
 1 - Programa en consola que permita saber si dos números son divisibles entre sí.
