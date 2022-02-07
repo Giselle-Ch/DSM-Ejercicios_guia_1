@@ -7,7 +7,6 @@ public class Ejercicio4 {
         int cantidad;
         int coorX, coorY;
         String[] coordenadasTotal;
-        double[] coordenada;
         //Contadores
        int cuadrante1, cuadrante2, cuadrante3, cuadrante4;
        cuadrante1 = 0;
@@ -18,7 +17,6 @@ public class Ejercicio4 {
         System.out.print("Cantidad de coordenadas: ");
         cantidad = teclado.nextInt();
         
-        coordenada = new double[cantidad];
         coordenadasTotal = new String[cantidad];
         
         for(int i = 0; i < cantidad; i++)
